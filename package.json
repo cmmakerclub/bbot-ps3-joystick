@@ -1,0 +1,26 @@
+{
+  "name": "bbot-ps3-joystick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "joystick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmmakerclub/bbot-ps3-joystick"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmmakerclub/bbot-ps3-joystick/issues"
+  },
+  "homepage": "https://github.com/cmmakerclub/bbot-ps3-joystick",
+  "dependencies": {
+    "cylon": "^0.22.0",
+    "cylon-joystick": "^0.14.0",
+    "cylon-speech": "^0.6.0",
+    "q": "^1.1.2",
+    "underscore": "^1.7.0"
+  }
+}
